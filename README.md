@@ -83,8 +83,8 @@ CPP-Mastery/
 - [ ] Strings
 - [ ] Recursion
 - [ ] Pointers
-- [ ] OOP
-- [ ] STL
+- [x] OOP
+- [x] STL
 - [ ] Searching
 - [ ] Sorting
 - [ ] Linked List
@@ -93,7 +93,7 @@ CPP-Mastery/
 - [ ] Graphs
 - [ ] Greedy
 - [ ] Dynamic Programming
-- [ ] Bit Manipulation
+- [x] Bit Manipulation
 - [ ] Competitive Programming
 - [ ] Projects
 
